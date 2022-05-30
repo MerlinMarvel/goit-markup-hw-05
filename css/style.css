@@ -280,6 +280,7 @@ body {
 
 .img-list img {
     width: 100%;
+    
 }
 
 
@@ -652,11 +653,14 @@ body {
 
  .subtitle-img {
     position: relative;
+    max-width: 370px;
+    max-height: 294px;
+
  }
 
  .img-bar {
     position: absolute;
-    bottom: 0;: 0;
+    bottom: 0;
     right: 0;
     display: flex;
 
